@@ -1,0 +1,19 @@
+/* 
+  HelpingCalculation.strings
+  MyFinancialCalApp1
+
+  Created by user219515 on 7/20/22.
+  
+*/
+
+/*
+ Formula Attribute Naming
+ 
+ P = present/principal/amount value
+ F = future value
+ r = interest rate
+ t = (time) number of payments
+ n = compound per year
+ PMT = payment
+ 
+ */
